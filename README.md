@@ -2,7 +2,7 @@
 
 # ckanext-userlocation_extension
 
-**TODO:** Put a description of your extension here:  What does it do? What features does it have? Consider including some screenshots or embedding a video!
+**TODO:** This extension shows a user's location and their ISP address.
 
 
 ## Requirements
