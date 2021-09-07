@@ -1,0 +1,14 @@
+# userlocation_extension-js:
+#   filter: rjsmin
+#   output: ckanext-userlocation_extension/%(version)s-userlocation_extension.js
+#   contents:
+#     - js/userlocation_extension.js
+#   extra:
+#     preload:
+#       - base/main
+
+# userlocation_extension-css:
+#   filter: cssrewrite
+#   output: ckanext-userlocation_extension/%(version)s-userlocation_extension.css
+#   contents:
+#     - css/userlocation_extension.css
