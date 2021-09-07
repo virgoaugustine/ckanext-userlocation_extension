@@ -2,7 +2,7 @@
 
 # ckanext-userlocation_extension
 
-**TODO:** This extension shows a user's location and their ISP address.
+This extension shows a user's location and their ISP address.
 
 
 ## Requirements
